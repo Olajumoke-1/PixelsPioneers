@@ -1,5 +1,6 @@
 #Project Title [QuoteHub]
 ##Table of Contents
+
 - [Project description](#Project description)
 - [Project Structure](Project-Structure)
 - [Screenshot](#Screenshot)
@@ -12,12 +13,14 @@
 - [Acknowledgements](#Acknowledgement)
 
 #Project Description
+
 Welcome to QuoteHub, a passion project dedicated to creating a diverse collection of **Inspirational**, **Tech**, **Religious**, **Moral**
 and **Education** Quotes. Our misssion is to provide a unique platform where you can find 
 wisdom, motivation and enlightment from perspectives.
 
 ##Project Structure
 Here's a quick overview of the project structure:
+
 - index.html: The main page that represents the **Inspirational Quotes**.
 - Edu.html: The page that represents the **Educational Quotes**.
 - Moral.html: The page that represents the **Moral Quotes**.
