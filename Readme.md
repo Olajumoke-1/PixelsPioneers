@@ -1,8 +1,8 @@
 # Project Title [QuoteHub]
 ## Table of Contents
 
-- [Project description](#Project description)
-- [Project Structure](Project-Structure)
+- [Project-description](#Project-description)
+- [Project-Structure](Project-Structure)
 - [Screenshot](#Screenshot)
 - [Links](#Links)
 - [Built with](Built-with)
