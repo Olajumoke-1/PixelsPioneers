@@ -2,15 +2,15 @@
 ## Table of Contents
 
 - [Project-description](#Project-description)
-- [Project-Structure](Project-Structure)
-- [Screenshot](Screenshot)
-- [Links](Links)
-- [Built-with](Built-with)
-- [What-i-learned](What-i-learned)
-- [Continued-development](Continued-development)
-- [Useful Resources](Useful-resources)
-- [Author](Author)
-- [Acknowledgements](Acknowledgement)
+- [Project-Structure](#Project-Structure)
+- [Screenshot](#Screenshot)
+- [Links](#Links)
+- [Built-with](#Built-with)
+- [What-i-learned](#What-i-learned)
+- [Continued-development](#Continued-development)
+- [Useful Resources](#Useful-resources)
+- [Author](#Author)
+- [Acknowledgement](#Acknowledgement)
 
 # Project Description
 
