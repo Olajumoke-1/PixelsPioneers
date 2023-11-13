@@ -1,16 +1,16 @@
 # Project Title [QuoteHub]
 ## Table of Contents
 
-- [Project-description](#Project-description)
+- [Project-description](Project-description)
 - [Project-Structure](Project-Structure)
-- [Screenshot](#Screenshot)
-- [Links](#Links)
-- [Built with](Built-with)
--[What i learned](#What-i-learned)
-- [Continued development](#Continued-development)
-- [Useful Resources](#Useful-resources)
-- [Author](#Author)
-- [Acknowledgements](#Acknowledgement)
+- [Screenshot](Screenshot)
+- [Links](Links)
+- [Built-with](Built-with)
+- [What-i-learned](What-i-learned)
+- [Continued-development](Continued-development)
+- [Useful Resources](Useful-resources)
+- [Author](Author)
+- [Acknowledgements](Acknowledgement)
 
 # Project Description
 
